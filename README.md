@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahabub72
 - 👀 I’m interested in ... Programming, Software/Web Engineering, and IoT etc.
-- 🌱 I’m currently learning ... C/C++, DSA, Python, React-Native (Expo or native), Docker, Micro-services, CI/CD, Networking & Information Security, etc.
+- 🌱 I’m currently learning ... C, DS & Algo, Python, Golang, Docker, Micro-services, MERN-stack, RDBMS & SQLs, etc.
 - 💞️ I’m looking to collaborate on ... Problem Solving, Full-stack Software solution, IoT (DIY), startup development etc.
 - 📫 How to reach me ... facebook: https://facebook.com/mahabub6333, WhatsApp: +8801629235256
 
