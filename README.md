@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋 Hi, I’m Mahabub</h1>
+<h1 align="center">👋 Hi, I’m Mahabub</h1>
 <h3 align="center">An Undergraduate Student | Green University of Bangladesh</h3>
 
 - 👀 I’m interested in ... Programming, Software/Web Engineering, and IoT etc.
