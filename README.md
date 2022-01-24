@@ -8,8 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahabub72&label=Profile%20views&color=0e75b6&style=flat" alt="mahabub" /> </p>
 
-- 📫 How to reach me [Email] **mahabub21272@gmail.com** or [Whatsapp] **+8801571209784**
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg" /> Join my personal discord server **Invitation => https://discord.gg/sBe9xqBmzC**
+- 📫 How to reach me [Email] **mahabub21272@gmail.com** or [Whatsapp] **+8801629235256**
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg" /> Join my personal discord <img src="https://cdn.icon-icons.com/icons2/2108/PNG/32/discord_icon_130958.png"/> server **Invitation => https://discord.gg/sBe9xqBmzC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
