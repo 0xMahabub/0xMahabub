@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahabub72&label=Profile%20views&color=0e75b6&style=flat" alt="mahabub" /> </p>
 
 - 📫 How to reach me [Email] **mahabub21272@gmail.com** or [Whatsapp] **+8801629235256**
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg" /> Join my personal discord <img src="https://cdn.icon-icons.com/icons2/2108/PNG/32/discord_icon_130958.png"/> server **Invitation => https://discord.gg/sBe9xqBmzC**
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg" /> Join my personal discord <img src="https://cdn.icon-icons.com/icons2/2108/PNG/32/discord_icon_130958.png"/> server <br /> **Invitation => https://discord.gg/sBe9xqBmzC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
 <a href="https://www.leetcode.com/mahabub072/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahabub72/" height="30" width="40" /></a>
 <!--<a href="https://auth.geeksforgeeks.org/user/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="username" height="30" width="40" /></a>
 </p> -->
-
+<br />
 <!---
 mahabub72/mahabub72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
