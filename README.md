@@ -23,8 +23,12 @@
 <a href="https://www.leetcode.com/mahabub072/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahabub72/" height="30" width="40" /></a>
 <!--<a href="https://auth.geeksforgeeks.org/user/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="username" height="30" width="40" /></a>
 </p> -->
-  <p> </p>
-<img width="500px" alt="0xMahabub Github Stats"  src="https://github-readme-stats.vercel.app/api?username=0xMahabub&show_icons=true"/>
+<!-- <img width="500px" alt="0xMahabub Github Stats"  src="https://github-readme-stats.vercel.app/api?username=0xMahabub&show_icons=true"/> -->
+<p align="left">
+  <a href="https://github.com/0xMahabub"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xMahabub&layout=compact&theme=radical" />
+  </a>
+</p>
+
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMahabub&card_width=500)](https://github.com/0xMahabub/)
 <!---
