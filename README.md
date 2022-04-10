@@ -24,9 +24,9 @@
 <!--<a href="https://auth.geeksforgeeks.org/user/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="username" height="30" width="40" /></a>
 </p> -->
   <p> </p>
-<img width="500px" alt="Mahabubdev Github Stats"  src="https://github-readme-stats.vercel.app/api?username=mahabubdev&show_icons=true"/>
+<img width="500px" alt="Mahabubdev Github Stats"  src="https://github-readme-stats.vercel.app/api?username=0xMahabub&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubdev&card_width=500)](https://github.com/mahabubdev/)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMahabub&card_width=500)](https://github.com/0xMahabub/)
 <!---
 mahabub72/mahabub72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
