@@ -2,13 +2,15 @@
 <h1 align="center">👋 Hi, I’m Mahabub</h1>
 <h3 align="center">An Undergraduate Student | Green University of Bangladesh</h3>
 
-- 👀 I’m interested in ... Programming, Software/Web Engineering, and IoT etc.
-- 🌱 I’m currently learning ... C, DS & Algo, Python, Golang, Docker, Microservices, MERN-stack, RDBMS/SQLs, k8s, Linux, etc.
-- 💞️ I’m looking to collaborate on ... Problem Solving, Full-stack developments, IoT, ML/AI, etc.
+- 👀 I’m interested in ... Programming, Software/Backend-Engineering, and IoT etc.
+- 🌱 I’m currently learning ... OOP & Java(SE/EE), NestJS + Spring framework, RDBMS/SQLs, Linux, Docker, Angular14 + Redux-RTK, etc.
+- 💞️ I’m looking to collaborate on ... Problem Solving (not compettitive programming), DSA practice, DBMS+SDE, IoT solutions, etc.
+- 🔆 My hobbies:- Bike riding, Touring, Sports (Football/Cricket/Badminton), Nature photography/videography, Modern Solar system + Hydroponic farms with IoT ecosystem, (Remote) IT startup (using SDE/SWE tech), (Remote) Home workstation, Blockchain & IoT projects (DIY), Could computing & private networks (DIY), Automation & AI (ML) in IoT+agricultural project :), Data analysis from my own ecosystems, etc. [It's all wired, but they are always in my mind :) ]
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xMahabub&label=Profile%20views&color=0e75b6&style=flat" alt="0xMahabub" /> </p>
 
-- 📫 How to reach me [Email] **mahabub21272@gmail.com** or [Whatsapp] **+8801629235256**
+- 📫 How to reach me [Email] **mahabub2000bd@gmail.com** or [Whatsapp] **++8801311052448**
 - <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg" /> Join my personal discord <img src="https://cdn.icon-icons.com/icons2/2108/PNG/32/discord_icon_130958.png"/> server <br /> **Invitation => https://discord.gg/sBe9xqBmzC**
 
 <h3 align="left">Connect with me:</h3>
@@ -28,6 +30,59 @@
   <a href="https://github.com/0xMahabub"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xMahabub&layout=compact&theme=radical" />
   </a>
 </p>
+
+
+### My career intersets to start my career on (favourit paths): {I will choose one :)}
+> 💚 (Junior) Software Developer/Engineer (SDE) [Nodejs/Python/Spring]
+> 💚 (Junior) Backend Engineer or Developer [stacks: NestJs/Spring/Django]
+> 💚 (Junior) Full-stack developer or engineer [stack: Python/Nodejs/Java + JS/TS]
+> 💚 MERN-stack developer [Nodejs, ExpressJs, MongoDB/MySQL, React/Nextjs + Redux, TypeScript]
+> 💚 Frontend Engineer (React+Redux+RTKQuery or Angular+Rxjs += TypeScript)
+> 💚 (Junior) Java Developer [J2EE, JDBC, Servlet, JSP, JPA, Tomcat]
+> 💚 (Junior) AWS solution architect. (SSA/SA) :)
+> 💚 (Junior) Network-specialist or Server-administrator or DBA (SQL)
+
+
+
+
+
+### Some core skills that I learned or learning or already good in ...
+- ✅ Programming Languages: 
+    - C/C++ [good], 
+    - Java [^fresher], 
+    - Python [good],
+    - Go [learner]
+- ✅ Computer Science: 
+    - OOP [fresher], 
+    - Computer Architechture [learner + fresher], 
+    - Data Structures & Algos [fresher], 
+    - Networking [learner + fresher],
+    - DBMS/RBDMS [learner + fresher], 
+- ✅ HTML + CSS (Responsive Web Design) [expert]
+- ✅ JavaScript (ES5+ES6+ESNext) [experienced/exp.]
+- ✅ TypeScript [fresher]
+- ✅ Frontend Frameworks/Library: 
+    - React [exp.], Redux [fresher], ReactQuery [fresher]
+    - Angular [learner], Ngrx [queue: learn]
+- ✅ Backend Framework & Tech:
+    - Nodejs/ExpressJs [experienced]
+    - NestJs [fresher]
+    - Django + DRF [fresher]
+    - Spring framework [learner] + Hibernate [learner]
+- ✅ Databases:
+    - SQL:
+      - MySQL [fresher++]
+      - PostgreSQL [learner]
+      - Oracle/MS-SQL [will learn]
+     - NoSQL:
+      - MongoDB [experienced]
+      - Firebase [knows]
+- ✅ REST-APIs [expert] + GraphQL [experienced]
+- ✅ Linux (Ubuntu/Debian/RedHat) [experienced], Docker [experienced], WebRTC [fresher], CI/CD [learner]
+- ✅ GIT+Github/Gitlab [experienced]
+- ✅ Java Swing GUI [fresher], React-Native [fresher]
+- ✅ Solving coding problems in Hackerrank, Leetcode, Toph [semi-regular]
+
 
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMahabub&card_width=500)](https://github.com/0xMahabub/)
