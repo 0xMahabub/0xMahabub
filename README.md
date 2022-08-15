@@ -32,15 +32,29 @@
 </p>
 
 
+### upcoming or completed projects showcase: [isDone: ✅, upcoming/inProgress: ⏳]      {estimated: 2023 -> 2025}
+- 🚧 [⏳] File sharing or transfer web application [Tech: p2p webRtc, JavaScript, HTML]
+- 🚧 [⏳] URL shortner web-app [Tech: MERN-stack or NestJs+React/Nextjs]
+- 🚧 [⏳] University/School/Admission/Library/Bank/Meal/Inventory/Employee Management (x2) System [Tech: J2EE + Servlet + JSP + JDBC + JPA]
+- 🚧 [⏳] Trip planner (startup demo) [Tech: NestJs + GraphQL + gMaps + MongoDB]
+- 🚧 [⏳] Bike rental web app [Tech: Django DRF + React/Angular]
+- 🚧 [⏳] Machine Learning (x2->3): Recognization, Recommendation, Predictation, etc.  [Tech: Python, ML, AI, Tensorflow, Pandas, Numpy, OpenCV, etc.]
+- 🚧 [⏳] Ticket Booking or Reservation system [Tech: Django/NestJS/Spring, React/Angular]
+- 🚧 [⏳] Pharmacy/Doc-portal management & OTT platform [Tech: Django/FastAPI or Spring/Nestjs + React/Angular + Streaming + p2p]
+- 🚧 [⏳] Office/School/University Attendece System [Tech: Django/Spring + Angular/React + FingerPrint/Camera/QR]
+- 🚧 [⏳] Multivendor eCommerce solution @microservices [Tech: Spring boot + REST-APIs + React + Docker + K8s + AWS/Zeit/DigOc.]
+
+
 ### My career intersets to start my career on (favourit paths): {I will choose one :)}
-> 💚 (Junior) Software Developer/Engineer (SDE) [Nodejs/Python/Spring]
-> 💚 (Junior) Backend Engineer or Developer [stacks: NestJs/Spring/Django]
-> 💚 (Junior) Full-stack developer or engineer [stack: Python/Nodejs/Java + JS/TS]
-> 💚 MERN-stack developer [Nodejs, ExpressJs, MongoDB/MySQL, React/Nextjs + Redux, TypeScript]
-> 💚 Frontend Engineer (React+Redux+RTKQuery or Angular+Rxjs += TypeScript)
-> 💚 (Junior) Java Developer [J2EE, JDBC, Servlet, JSP, JPA, Tomcat]
-> 💚 (Junior) AWS solution architect. (SSA/SA) :)
-> 💚 (Junior) Network-specialist or Server-administrator or DBA (SQL)
+
+💚 (Junior) Software Developer/Engineer (SDE) [Nodejs/Python/Spring]
+💚 (Junior) Backend Engineer or Developer [stacks: NestJs/Spring/Django]
+💚 (Junior) Full-stack developer or engineer [stack: Python/Nodejs/Java + JS/TS]
+💚 MERN-stack developer [Nodejs, ExpressJs, MongoDB/MySQL, React/Nextjs + Redux, TypeScript]
+💚 Frontend Engineer (React+Redux+RTKQuery or Angular+Rxjs += TypeScript)
+💚 (Junior) Java Developer [J2EE, JDBC, Servlet, JSP, JPA, Tomcat]
+💚 (Junior) AWS solution architect. (SSA/SA) :)
+💚 (Junior) Network-specialist or Server-administrator or DBA (SQL)
 
 
 
