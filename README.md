@@ -2,9 +2,9 @@
 <h1 align="center">👋 Hi, I’m Mahabub</h1>
 <h3 align="center">An Undergraduate Student | Green University of Bangladesh</h3>
 
-- 👀 I’m interested in ... Programming, Software/Backend-Engineering, and IoT etc.
-- 🌱 I’m currently learning ... OOP & Java(SE/EE), NestJS + Spring framework, RDBMS/SQLs, Linux, Docker, Angular14 + Redux-RTK, etc.
-- 💞️ I’m looking to collaborate on ... Problem Solving (not compettitive programming), DSA practice, DBMS+SDE, IoT solutions, etc.
+- 👀 I’m interested in ... Programming & Problem-solving, Software/Backend-Engineering, and IoT etc.
+- 🌱 I’m currently learning ... OOP & Java(SE/EE), Spring-framework, RDBMS/SQLs, Linux, Docker, Angular14 + Redux-RTK, NestJS, etc.
+- 💞️ I’m looking to collaborate on ... Problem Solving & contests, DSA practice, DBMS+SDE, IoT solutions, etc.
 - 🔆 My hobbies:- Bike riding, Touring, Sports (Football/Cricket/Badminton), Nature photography/videography, Modern Solar system + Hydroponic farms with IoT ecosystem, (Remote) IT startup (using SDE/SWE tech), (Remote) Home workstation, Blockchain & IoT projects (DIY), Could computing & private networks (DIY), Automation & AI (ML) in IoT+agricultural project :), Data analysis from my own ecosystems, etc. [It's all wired, but they are always in my mind :) ]
 
 
