@@ -34,15 +34,15 @@
 
 
 ## Some of my skills & What I do ...
-~ C/C++ (structural programming)
-~ (OOP) Object Oriented Programming & Java (J2SE, J2EE)
-~ Python programming & Data-structures (avg.)
-~ (Junior level) Problem solver (competitive programming & etc.)
-~ MongoDB (NoSQL), JavaScript/TypeScript/Nodejs (+= React) [MERN-stack trainned @fresher]
-~ Basic Networking, DBMS (SQL), SDLC, etc.
-~ OS: Linux (Ubuntu) & Windows 11/10, Docker, DockerCompose, etc.
-~ Git, Github/Gitlab, Heroku, Netlify, gh-pages, vercel, railway, etc. free tools/resouces.
-~ Arch. & others [Learning/practiced] => Backend, API, GraphQL, Services/Microservices, CI/CD, Docker & Kubernetes, Nginx/Apache, etc.
+- C/C++ (structural programming)
+- (OOP) Object Oriented Programming & Java (J2SE, J2EE)
+- Python programming & Data-structures (avg.)
+- (Junior level) Problem solver (competitive programming & etc.)
+- MongoDB (NoSQL), JavaScript/TypeScript/Nodejs (+= React) [MERN-stack trainned @fresher]
+- Basic Networking, DBMS (SQL), SDLC, etc.
+- OS: Linux (Ubuntu) & Windows 11/10, Docker, DockerCompose, etc.
+- Git, Github/Gitlab, Heroku, Netlify, gh-pages, vercel, railway, etc. free tools/resouces.
+- Arch. & others [Learning/practiced] => Backend, API, GraphQL, Services/Microservices, CI/CD, Docker & Kubernetes, Nginx/Apache, etc.
 
 
 
