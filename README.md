@@ -32,70 +32,17 @@
 </p>
 
 
-### upcoming or completed projects showcase: [isDone: ✅, upcoming/inProgress: ⏳]      {estimated: 2023 -> 2025}
-- 🚧 [⏳] File sharing or transfer web application [Tech: p2p webRtc, JavaScript, HTML]
-- 🚧 [⏳] URL shortner web-app [Tech: MERN-stack or NestJs+React/Nextjs]
-- 🚧 [⏳] University/School/Admission/Library/Bank/Meal/Inventory/Employee Management (x2) System [Tech: J2EE + Servlet + JSP + JDBC + JPA]
-- 🚧 [⏳] Trip planner (startup demo) [Tech: NestJs + GraphQL + gMaps + MongoDB]
-- 🚧 [⏳] Bike rental web app [Tech: Django DRF + React/Angular]
-- 🚧 [⏳] Machine Learning (x2->3): Recognization, Recommendation, Predictation, etc.  [Tech: Python, ML, AI, Tensorflow, Pandas, Numpy, OpenCV, etc.]
-- 🚧 [⏳] Ticket Booking or Reservation system [Tech: Django/NestJS/Spring, React/Angular]
-- 🚧 [⏳] Pharmacy/Doc-portal management & OTT platform [Tech: Django/FastAPI or Spring/Nestjs + React/Angular + Streaming + p2p]
-- 🚧 [⏳] Office/School/University Attendece System [Tech: Django/Spring + Angular/React + FingerPrint/Camera/QR]
-- 🚧 [⏳] Multivendor eCommerce solution @microservices [Tech: Spring boot + REST-APIs + React + Docker + K8s + AWS/Zeit/DigOc.]
 
-
-### My career intersets to start my career on (favourit paths): {I will choose one :)}
-
-💚 (Junior) Software Developer/Engineer (SDE) [Nodejs/Python/Spring]
-💚 (Junior) Backend Engineer or Developer [stacks: NestJs/Spring/Django]
-💚 (Junior) Full-stack developer or engineer [stack: Python/Nodejs/Java + JS/TS]
-💚 MERN-stack developer [Nodejs, ExpressJs, MongoDB/MySQL, React/Nextjs + Redux, TypeScript]
-💚 Frontend Engineer (React+Redux+RTKQuery or Angular+Rxjs += TypeScript)
-💚 (Junior) Java Developer [J2EE, JDBC, Servlet, JSP, JPA, Tomcat]
-💚 (Junior) AWS solution architect. (SSA/SA) :)
-💚 (Junior) Network-specialist or Server-administrator or DBA (SQL)
-
-
-
-
-
-### Some core skills that I learned or learning or already good in ...
-- ✅ Programming Languages: 
-    - C/C++ [good], 
-    - Java [^fresher], 
-    - Python [good],
-    - Go [learner]
-- ✅ Computer Science: 
-    - OOP [fresher], 
-    - Computer Architechture [learner + fresher], 
-    - Data Structures & Algos [fresher], 
-    - Networking [learner + fresher],
-    - DBMS/RBDMS [learner + fresher], 
-- ✅ HTML + CSS (Responsive Web Design) [expert]
-- ✅ JavaScript (ES5+ES6+ESNext) [experienced/exp.]
-- ✅ TypeScript [fresher]
-- ✅ Frontend Frameworks/Library: 
-    - React [exp.], Redux [fresher], ReactQuery [fresher]
-    - Angular [learner], Ngrx [queue: learn]
-- ✅ Backend Framework & Tech:
-    - Nodejs/ExpressJs [experienced]
-    - NestJs [fresher]
-    - Django + DRF [fresher]
-    - Spring framework [learner] + Hibernate [learner]
-- ✅ Databases:
-    - SQL:
-      - MySQL [fresher++]
-      - PostgreSQL [learner]
-      - Oracle/MS-SQL [will learn]
-     - NoSQL:
-      - MongoDB [experienced]
-      - Firebase [knows]
-- ✅ REST-APIs [expert] + GraphQL [experienced]
-- ✅ Linux (Ubuntu/Debian/RedHat) [experienced], Docker [experienced], WebRTC [fresher], CI/CD [learner]
-- ✅ GIT+Github/Gitlab [experienced]
-- ✅ Java Swing GUI [fresher], React-Native [fresher]
-- ✅ Solving coding problems in Hackerrank, Leetcode, Toph [semi-regular]
+## Some of my skills & What I do ...
+~ C/C++ (structural programming)
+~ (OOP) Object Oriented Programming & Java (J2SE, J2EE)
+~ Python programming & Data-structures (avg.)
+~ (Junior level) Problem solver (competitive programming & etc.)
+~ MongoDB (NoSQL), JavaScript/TypeScript/Nodejs (+= React) [MERN-stack trainned @fresher]
+~ Basic Networking, DBMS (SQL), SDLC, etc.
+~ OS: Linux (Ubuntu) & Windows 11/10, Docker, DockerCompose, etc.
+~ Git, Github/Gitlab, Heroku, Netlify, gh-pages, vercel, railway, etc. free tools/resouces.
+~ Arch. & others [Learning/practiced] => Backend, API, GraphQL, Services/Microservices, CI/CD, Docker & Kubernetes, Nginx/Apache, etc.
 
 
 
