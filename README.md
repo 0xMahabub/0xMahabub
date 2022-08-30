@@ -5,17 +5,28 @@
 - 👀 I’m interested in ... Programming & Problem-solving, Software/Backend-Engineering, and IoT etc.
 - 🌱 I’m currently learning ... OOP & Java(SE/EE), Spring-framework, RDBMS/SQLs, Linux, Docker, Angular14 + Redux-RTK, NestJS, etc.
 - 💞️ I’m looking to collaborate on ... Problem Solving & contests, DSA practice, DBMS+SDE, IoT solutions, etc.
-- 🔆 My hobbies:- Bike riding, Touring, Sports (Football/Cricket/Badminton), Nature photography/videography, Modern Solar system + Hydroponic farms with IoT ecosystem, (Remote) IT startup (using SDE/SWE tech), (Remote) Home workstation, Blockchain & IoT projects (DIY), Could computing & private networks (DIY), Automation & AI (ML) in IoT+agricultural project :), Data analysis from my own ecosystems, etc. [It's all wired, but they are always in my mind :) ]
+- 🔆 My hobbies:- 
+  - Bike riding
+  - Touring
+  - Sports (Football/Cricket/Badminton)
+  - Nature photography/videography
+  - Modern Solar system + Hydroponic farms with IoT ecosystem
+  - (Remote) IT startup (using SDE/SWE tech)
+  - (Remote) Home workstation, Blockchain & IoT projects (DIY)
+  - Could computing & private networks (DIY)
+  - Automation & AI (ML) in IoT+agricultural project :)
+  - Data analysis from my own ecosystems, etc. 
+  [It's all wired, but they are always in my mind :) ]
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xMahabub&label=Profile%20views&color=0e75b6&style=flat" alt="0xMahabub" /> </p>
 
-- 📫 How to reach me [Email] **mahabub2000bd@gmail.com** or [Whatsapp] **++8801311052448**
+- 📫 How to reach me [Email] **iosmahabub@gmail.com** or [Whatsapp] **+8801311052448**
 - <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg" /> Join my personal discord <img src="https://cdn.icon-icons.com/icons2/2108/PNG/32/discord_icon_130958.png"/> server <br /> **Invitation => https://discord.gg/sBe9xqBmzC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahabub2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahabub2000/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0xmahabub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahabub2000/" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="name" height="30" width="40" /></a> -->
 <a href="https://fb.com/mahabub6333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahabub/" height="30" width="40" /></a>
 <a href="https://instagram.com/7_mahabub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7_mahabub/" height="30" width="40" /></a>
@@ -34,15 +45,15 @@
 
 
 ## Some of my skills & What I do ...
-- C/C++ (structural programming)
-- (OOP) Object Oriented Programming & Java (J2SE, J2EE)
-- Python programming & Data-structures (avg.)
+- `C/C++` (structural programming)
+- (`OOP`) Object Oriented Programming & `Java` (J2SE, J2EE)
+- `Python` programming & `Data-structures` (avg.)
 - (Junior level) Problem solver (competitive programming & etc.)
-- MongoDB (NoSQL), JavaScript/TypeScript/Nodejs (+= React) [MERN-stack trainned @fresher]
-- Basic Networking, DBMS (SQL), SDLC, etc.
-- OS: Linux (Ubuntu) & Windows 11/10, Docker, DockerCompose, etc.
-- Git, Github/Gitlab, Heroku, Netlify, gh-pages, vercel, railway, etc. free tools/resouces.
-- Arch. & others [Learning/practiced] => Backend, API, GraphQL, Services/Microservices, CI/CD, Docker & Kubernetes, Nginx/Apache, etc.
+- `MongoDB` (NoSQL), `JavaScript/TypeScript/Nodejs` (+= `React`) [`MERN-stack` trainned @fresher]
+- Basic Networking, DBMS (`SQL`), SDLC, etc.
+- OS: `Linux (Ubuntu)` & Windows 11/10, `Docker`, DockerCompose, etc.
+- `Git, Github/Gitlab`, Heroku, Netlify, gh-pages, vercel, railway, etc. free tools/resouces.
+- Arch. & others [Learning/practiced] => Backend, APIs, GraphQL, Services/Microservices, CI/CD, Docker & Kubernetes, Nginx/Apache, etc.
 
 
 
