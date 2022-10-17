@@ -30,11 +30,16 @@
 <a href="https://www.leetcode.com/mahabub072/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahabub72/" height="30" width="40" /></a>
 <!--<a href="https://auth.geeksforgeeks.org/user/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="username" height="30" width="40" /></a>
 </p> -->
-<a href="https://leetcode.com/0xMahabub/">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=0xMahabub" width="400"/>
-</a>
+  
+  <br />
+  <a href="https://github.com/KnlnKS/leetcode-stats">
+    <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=0xMahabub" width="400"/>  
+  </a>
+  
   <a href="https://github.com/0xMahabub"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xMahabub&layout=compact&theme=radical" />
   </a>
+  
+  
 </p>
 
 ```js
