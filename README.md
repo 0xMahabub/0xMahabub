@@ -27,17 +27,12 @@
 <!--<a href="https://www.codechef.com/users/username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="name" height="30" width="40" /></a>-->
 <a href="https://www.hackerrank.com/mahabub072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahabub072" height="30" width="40" /></a>
 <!--<a href="https://codeforces.com/profile/mahabub72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahabub72" height="30" width="40" /></a>-->
-<a href="https://www.leetcode.com/mahabub072/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahabub72/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/0xMahabub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0xMahabub/" height="30" width="40" /></a>
 <!--<a href="https://auth.geeksforgeeks.org/user/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="username" height="30" width="40" /></a>
 </p> -->
-  
-  <br />
-  <a href="https://github.com/KnlnKS/leetcode-stats">
-    <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=0xMahabub" width="400"/>  
-  </a>
-  
-  <a href="https://github.com/0xMahabub"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xMahabub&layout=compact&theme=radical" />
-  </a>
+
+<br />
+![Leetcode Stats](https://leetcard.jacoblin.cool/0xMahabub)
   
   
 </p>
@@ -45,19 +40,28 @@
 ```js
 const mySkills = [
  programming: [
-  'C/C++', 'Java', 'JavaScript/TypeScript', 'Python'
+  'C/C++', 'Java', 
+  'JavaScript/TypeScript', 
+  'Python'
  ],
  backend: [
-  'NodeJS/ExpressJs/NestJS', 'Spring-framework (learning)', Flask
+  'NodeJS/ExpressJs/NestJS', 
+  'Spring-framework (learning)'
  ],
  databases: [
   'MongoDB', 'SQL/MySQL/PostgreSQL'
  ],
  frontend: [
-  'HTML/CSS', 'Bootstrap/TailwindCSS', 'React & Redux-RTK', 'Angular (learning)', 'Antd/Zorro', 'SCSS/Styled-components/etc.'
+  'HTML/CSS', 'Bootstrap/TailwindCSS', 
+  'React & Redux-RTK', 
+  'Angular (learning)', 
+  'Antd/Zorro', 'SCSS/Styled-components/etc.'
  ],
  tools_n_others: [
-  'Linux/Ubuntu', 'Git/Github', 'CI/CD workflows', 'VScode/Intelij IDEA', 'Terminal/Bash', 'Docker/DockerCompose', 'Cloud-VPC-PaaS/Netlify/Vercel/Heroku'
+  'Linux/Ubuntu', 'Git/Github', 'CI/CD workflows', 
+  'VScode/Intelij IDEA', 'Terminal/Bash', 
+  'Docker/DockerCompose', 
+  'Cloud-VPC-PaaS/Netlify/Vercel/Heroku'
  ],
 ];
 ```
