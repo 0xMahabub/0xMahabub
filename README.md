@@ -3,8 +3,8 @@
 <h3 align="center">An Undergraduate Student | Green University of Bangladesh</h3>
 
 - 👀 I’m interested in ... Programming & Problem-solving, Software/Backend-Engineering, and IoT etc.
-- 🌱 I’m currently learning ... OOP & Java(SE/EE), Spring-framework, RDBMS/SQLs, Linux, Docker, Angular14 + Redux-RTK, NestJS, etc.
-- 💞️ I’m looking to collaborate on ... Problem Solving & contests, DSA practice, DBMS+SDE, IoT solutions, etc.
+- 🌱 I’m currently learning ... OOP & Java, Spring-framework, DBMS/SQLs, Linux, Docker, Angular14 + Redux-RTK, NestJS, etc.
+- 💞️ I’m looking to collaborate on ... Problem Solving & contests, DSA practice, Developments, IoT solutions, etc.
 - 🔆 My hobbies:- 
   - Bike riding
   - Touring
@@ -17,7 +17,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xMahabub&label=Profile%20views&color=0e75b6&style=flat" alt="0xMahabub" /> </p>
 
 - 📫 How to reach me [Email] **iosmahabub@gmail.com** or [Whatsapp] **+8801311052448**
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg" /> Join my personal discord <img src="https://cdn.icon-icons.com/icons2/2108/PNG/32/discord_icon_130958.png"/> server <br /> **Invitation => https://discord.gg/sBe9xqBmzC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,24 +30,32 @@
 <a href="https://www.leetcode.com/mahabub072/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahabub72/" height="30" width="40" /></a>
 <!--<a href="https://auth.geeksforgeeks.org/user/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="username" height="30" width="40" /></a>
 </p> -->
-<!-- <img width="500px" alt="0xMahabub Github Stats"  src="https://github-readme-stats.vercel.app/api?username=0xMahabub&show_icons=true"/> -->
-<p align="left">
+<a href="https://leetcode.com/0xMahabub/">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=0xMahabub" width="400"/>
+</a>
   <a href="https://github.com/0xMahabub"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xMahabub&layout=compact&theme=radical" />
   </a>
 </p>
 
-
-
-## Some of my skills & What I do ...
-- `C/C++` (structural programming)
-- (`OOP`) Object Oriented Programming & `Java`
-- `Python` programming & `Data-structures` (avg.)
-- (Junior level) Problem solver (competitive programming & etc.)
-- `MongoDB` (NoSQL), `JavaScript/TypeScript/Nodejs` (+= `React`) [`MERN-stack` trainned @fresher]
-- Basic Networking, DBMS (`SQL`), SDLC, etc.
-- OS: `Linux (Ubuntu)` & Windows 11/10, `Docker`, DockerCompose, etc.
-- `Git, Github/Gitlab`, Heroku, Netlify, gh-pages, vercel, railway, etc. free tools/resouces.
-- Arch. & others [Learning/practiced] => Backend, APIs, GraphQL, CI/CD, Docker & Kubernetes, etc.
+```js
+const mySkills = [
+ programming: [
+  'C/C++', 'Java', 'JavaScript/TypeScript', 'Python'
+ ],
+ backend: [
+  'NodeJS/ExpressJs/NestJS', 'Spring-framework (learning)', Flask
+ ],
+ databases: [
+  'MongoDB', 'SQL/MySQL/PostgreSQL'
+ ],
+ frontend: [
+  'HTML/CSS', 'Bootstrap/TailwindCSS', 'React & Redux-RTK', 'Angular (learning)', 'Antd/Zorro', 'SCSS/Styled-components/etc.'
+ ],
+ tools_n_others: [
+  'Linux/Ubuntu', 'Git/Github', 'CI/CD workflows', 'VScode/Intelij IDEA', 'Terminal/Bash', 'Docker/DockerCompose', 'Cloud-VPC-PaaS/Netlify/Vercel/Heroku'
+ ],
+];
+```
 
 
 
