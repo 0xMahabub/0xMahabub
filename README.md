@@ -42,7 +42,7 @@
 
 <br />
 
-![Leetcode Status of 0xMahabub](https://leetcard.jacoblin.cool/0xMahabub?ext=activity)
+![Leetcode Status of 0xMahabub](https://leetcard.jacoblin.cool/0xMahabub)
 
 ```js
 const mySkills = [
@@ -53,16 +53,17 @@ const mySkills = [
  ],
  backend: [
   'NodeJS/ExpressJs/NestJS', 
-  'Spring-framework (learning)'
+  'Spring-framework (learning)',
+  'GraphQL/Apollo',
  ],
  databases: [
   'MongoDB', 'SQL/MySQL/PostgreSQL'
  ],
  frontend: [
   'HTML/CSS', 'Bootstrap/TailwindCSS', 
-  'React & Redux-RTK', 
-  'Angular (learning)', 
-  'Antd/Zorro', 'SCSS/Styled-components/etc.'
+  'React & Redux-RTK', 'Apollo-client',
+  'Angular (learning)', 'Antd/Zorro',
+  'SCSS/Styled-components/etc.'
  ],
  tools_n_others: [
   'Linux/Ubuntu', 'Git/Github', 'CI/CD workflows', 
