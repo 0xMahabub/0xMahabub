@@ -1,10 +1,10 @@
 
 <h1 align="center">👋 Hi, I’m Mahabub</h1>
-<h3 align="center">An Undergraduate Student | Green University of Bangladesh</h3>
+<h3 align="center">An Undergraduate Student</h3>
 
 - 👀 I’m interested in ... Programming & Problem-solving, Software/Backend-Engineering, and IoT etc.
-- 🌱 I’m currently learning ... OOP & Java, Spring-framework, DBMS/SQLs, Linux, Docker, Angular14 + Redux-RTK, NestJS, etc.
-- 💞️ I’m looking to collaborate on ... Problem Solving & contests, DSA practice, Developments, IoT solutions, etc.
+- 🌱 I’m currently learning ... OOP & Java, DBMS/SQLs, Linux, Docker, NestJS, Spring(java) etc.
+- 💞️ I’m looking to collaborate on ... Problem Solving, DSA practice, Developments, IoT solutions, etc.
 - 🔆 My hobbies:- 
   - Bike riding
   - Touring
@@ -47,27 +47,27 @@
 ```js
 const mySkills = [
  programming: [
-  'C/C++', 'Java', 
   'JavaScript/TypeScript', 
-  'Python'
+  'Java/C/C++', 'Python'
  ],
  backend: [
   'NodeJS/ExpressJs/NestJS', 
-  'Spring-framework (learning)',
   'GraphQL/Apollo',
+  'Spring-framework (learning)',
  ],
  databases: [
   'MongoDB', 'SQL/MySQL/PostgreSQL'
  ],
  frontend: [
   'HTML/CSS', 'Bootstrap/TailwindCSS', 
-  'React & Redux-RTK', 'Apollo-client',
-  'Angular (learning)', 'Antd/Zorro',
-  'SCSS/Styled-components/etc.'
+  'React & Redux-RTK or Zustand', 'Apollo-client',
+  'React-Query', 'NextJs'
+  'SCSS/Styled-components/etc.',
+  'Angular (learning)',
  ],
  tools_n_others: [
   'Linux/Ubuntu', 'Git/Github', 'CI/CD workflows', 
-  'VScode/Intelij IDEA', 'Terminal/Bash', 
+  'VScode/Intelij-IDEA', 'Terminal/Bash', 
   'Docker/DockerCompose', 
   'Cloud-VPC-PaaS/Netlify/Vercel/Heroku'
  ],
