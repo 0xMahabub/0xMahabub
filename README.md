@@ -2,9 +2,9 @@
 <h1 align="center">👋 Hi, I’m Mahabub</h1>
 <h3 align="center">An Undergraduate Student</h3>
 
-- 👀 I’m interested in ... Programming & Problem-solving, Software/Backend-Engineering, and IoT etc.
-- 🌱 I’m currently learning ... OOP & Java, DBMS/SQLs, Linux, Docker, NestJS, Spring(java) etc.
-- 💞️ I’m looking to collaborate on ... Problem Solving, DSA practice, Developments, IoT solutions, etc.
+- 👀 I’m interested in ... backend or full-stack `software development` & few others.
+- 🌱 I’m currently learning ... some-patterns, dsa, networks, app-development (cross-platform), nestjs & `spring-framework (java)`, etc.
+- 💞️ I’m looking to collaborate on ... problem-solving, coding/development-ideas, `open-source`, etc.
 - 🔆 My hobbies:- 
   - Bike riding
   - Touring
@@ -44,34 +44,43 @@
 
 ![Leetcode Status of 0xMahabub](https://leetcard.jacoblin.cool/0xMahabub)
 
-```js
-const mySkills = [
- programming: [
-  'JavaScript/TypeScript', 
-  'Java/C/C++', 'Python'
- ],
- backend: [
-  'NodeJS/ExpressJs/NestJS', 
-  'GraphQL/Apollo',
-  'Spring-framework (learning)',
- ],
- databases: [
-  'MongoDB', 'SQL/MySQL/PostgreSQL'
- ],
- frontend: [
-  'HTML/CSS', 'Bootstrap/TailwindCSS', 
-  'React & Redux-RTK or Zustand', 'Apollo-client',
-  'React-Query', 'NextJs'
-  'SCSS/Styled-components/etc.',
-  'Angular (learning)',
- ],
- tools_n_others: [
-  'Linux/Ubuntu', 'Git/Github', 'CI/CD workflows', 
-  'VScode/Intelij-IDEA', 'Terminal/Bash', 
-  'Docker/DockerCompose', 
-  'Cloud-VPC-PaaS/Netlify/Vercel/Heroku'
- ],
-];
+```java
+import java.util.*;
+public class MyCoreSkills {
+  public Map<String, String[]> skills = new HashMap<String, String[]>();
+  // programming-languages
+  skills.set('programming-languages', [
+    'Java [v17]', 'JavaScript/TypeScript', 
+    'Python [v3]', 'Rust (coming-soon @maybe)'
+  ]);
+  
+  // backend-techs
+  skills.set('backend-techs', [
+    'NodeJs', 'ExpressJs', 'NestJs (learning)', 
+    'Spring-Framework (learning/staging) @in-training'
+  ]);
+  
+  // databases
+  skills.set('databases', [
+    'MySQL', 'PostgreSQL', 'MongoDB', 'Cassandra'
+  ]);
+  
+  // frontend-techs
+  skills.set('frontend-techs', [
+    'HTML/CSS', 'ECMAScripts', 'Bootstrap/Tailwindcss', 'Sass/SCSS',
+    'React', 'NextJs', 'webpack/vite', 'Angular (learning)', 'Astro'
+  ]);
+  
+  // Tools & Others
+   skills.set('tools-n-others', [
+    'Git/Github', 'CI/CD tools', 'Gulp', 'VScode-IDE',
+    'Intelij-IDE', 'Linux/Ubuntu', 'Docker/docker-compose',
+    'Husky', 'Lints', 'Github-Actions', 'TDD/JEST/jUnit(learning)',
+    'Netlify', 'Vercel', 'VPS/VPC (as a linux/ubuntu --user)',
+    'AWS---EC2/RDS/S3 (understands-little & hoping to learn sooner.)'
+  ]);
+  
+}
 ```
 
 
