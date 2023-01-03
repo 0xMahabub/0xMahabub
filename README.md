@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I’m Mahabub</h1>
-<h3 align="center">An Undergraduate Student</h3>
+<h3 align="center">Preparing/Becoming a backend/full-stack SDE/SWE or developer</h3>
 
 - 👀 I’m interested in ... backend or full-stack `software development` & few others.
 - 🌱 I’m currently learning ... some-patterns, dsa, networks, app-development (cross-platform), nestjs & `spring-framework (java)`, etc.
